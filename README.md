@@ -1,4 +1,6 @@
-# Example Application
+# My Sinatra Template
+
+Based on Sinatra, Haml and CoffeeScript.
 
 ## Install
 
