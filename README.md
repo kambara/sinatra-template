@@ -3,6 +3,7 @@
 ## Install
 
 1: Install RubyGems
+
 2: Install Bundler (>= 1.0)
 
     $ sudo gem install bundler
