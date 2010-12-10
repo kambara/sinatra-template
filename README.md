@@ -2,17 +2,17 @@
 
 ## Install
 
-1. Install RubyGems
-2. Install Bundler (>= 1.0)
+1: Install RubyGems
+2: Install Bundler (>= 1.0)
 
     $ sudo gem install bundler
 
-3. Bundle
+3: Bundle
 
     $ cd MY/APP
     $ bundle install --path vendor/bundle
 
-4. Install CoffeeScript
+4: Install CoffeeScript
 
 
 
