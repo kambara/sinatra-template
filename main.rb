@@ -7,6 +7,9 @@ require 'coffee-script'
 
 set :haml, {:format => :html5}
 
+helpers do
+end
+
 get '/' do
   haml :index
 end
