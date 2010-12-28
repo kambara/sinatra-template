@@ -1,12 +1,10 @@
-#container
-  = header
-  #main
-    %h1
-      Welcome!
-    %p
-      %a(href="test")
-        Test
-  = footer
+- @title = "Welcome"
+- content_for :scripts do
+  %script(src='/js/script.js')
 
-= haml :'partial/jquery'
-%script(src='/js/script.js')
+%h1
+  Welcome!
+%p
+  %a(href="test")
+    Test
+

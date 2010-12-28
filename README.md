@@ -1,6 +1,6 @@
 # My Sinatra Template
 
-Based on Sinatra, Haml and CoffeeScript.
+Based on Sinatra and Haml.
 
 ## Install
 

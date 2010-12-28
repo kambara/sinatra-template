@@ -1,9 +1,8 @@
-#container
-  = header
-  #main
-    %h1
-      Test
-  = footer
+- @title = "Test"
+- content_for :scripts do
+  %script(src='/js/script.js')
 
-= haml :'partial/jquery'
-%script(src='/js/script.js')
+%h1
+  Test
+
+
