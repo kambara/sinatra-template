@@ -18,7 +18,6 @@ Based on Sinatra, Haml and CoffeeScript.
 4: Install CoffeeScript
 
 
-
 ### Update Bundle
 
     $ bundle update
@@ -32,6 +31,10 @@ Webrick:
 Rackup:
 
     $ rackup
+
+Thin:
+
+    $ thin start
 
 ## Reference
 

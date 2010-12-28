@@ -1,16 +1,12 @@
-- @title = "Sample Application"
-
 #container
-  #header
-    %h1
-      Sample Application
+  = header
   #main
-    Hello
-  #footer
+    %h1
+      Welcome!
+    %p
+      %a(href="test")
+        Test
+  = footer
 
-= haml :"partial/jquery"
-%script(src="/js/plugins.js")
-%script(src="/js/script.js")
-
-= haml :"partial/ie6png"
-= haml :"partial/analytics"
+= haml :'partial/jquery'
+%script(src='/js/script.js')
