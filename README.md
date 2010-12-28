@@ -38,8 +38,8 @@ Thin:
 
 ## Reference
 
-- http://www.sinatrarb.com/documentation
-- http://haml-lang.com/docs.html
-- http://jashkenas.github.com/coffee-script/
-- http://gembundler.com/
-- http://html5boilerplate.com/
+- <http://www.sinatrarb.com/documentation>
+- <http://haml-lang.com/docs.html>
+- <http://jashkenas.github.com/coffee-script/>
+- <http://gembundler.com/>
+- <http://html5boilerplate.com/>
