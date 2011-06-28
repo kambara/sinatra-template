@@ -8,7 +8,7 @@ require 'sinatra/content_for'
 require 'haml'
 require 'coffee-script'
 
-require 'environment'
+require 'config/environment'
 require 'app/helper'
 require 'app/routes'
 
