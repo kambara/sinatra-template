@@ -1,6 +1,6 @@
 /Gemfile.lock
 /vendor/bundle/*
-
+/tmp/*
 .bundle
 *.db
 *.sqlite3
