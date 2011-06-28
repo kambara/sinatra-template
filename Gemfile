@@ -1,6 +1,7 @@
 source :rubygems
 
-gem 'sinatra', '>= 1.0'
+gem 'sinatra'
 gem 'sinatra-reloader'
 gem 'sinatra-content-for'
 gem 'haml'
+gem 'coffee-script'
